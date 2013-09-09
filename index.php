@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8">
 <title>CSCI E-15 | P 1</title>
+<link rel="stylesheet" type="text/css" href="css/main.css" media="screen>
 </head>
 
 <body>
