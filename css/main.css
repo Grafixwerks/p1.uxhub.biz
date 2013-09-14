@@ -55,7 +55,7 @@ table {
 html {
     height: 100%;
 }
-body { /* http://www.colorzilla.com/gradient-editor/ */
+body { /* Gradient CSS code from http://www.colorzilla.com/gradient-editor/ */
     height: 100%;
     margin: 0;
 	background: rgb(30,87,153); /* Old browsers */
@@ -81,7 +81,7 @@ body { /* http://www.colorzilla.com/gradient-editor/ */
 }
 h1 {
 	margin-bottom: 20px;
-	text-shadow: 2px 2px 2px rgba(150, 150, 150, 0.5); /* http://css3gen.com/text-shadow/ */
+	text-shadow: 2px 2px 2px rgba(150, 150, 150, 0.5); /* From http://css3gen.com/text-shadow/ */
 	color: #069;
 	font: 36px Georgia, "Times New Roman", Times, serif;
 }
