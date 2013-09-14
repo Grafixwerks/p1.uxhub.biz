@@ -1,5 +1,6 @@
 <!doctype html>
 <html>
+<!-- CSCI E-15, Fall 2013, Project 1, Andrew Pearson -->
 <head>
 <meta charset="utf-8">
 <title>CSCI E-15 | P 1</title>
